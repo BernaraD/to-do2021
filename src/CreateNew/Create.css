@@ -1,0 +1,6 @@
+
+.top-panel .new-todo-label {
+    width: auto;
+    flex-grow: 3;
+    margin-right: 3px;
+}
